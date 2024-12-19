@@ -17,6 +17,18 @@ body {
     padding: 20px;
 }
 
+/* Custom Style for Nate Profile Image */
+.nate-profile {
+    width: 150px; /* Adjust to your preferred size */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 20px auto; /* Center the image within the sidebar */
+    border-radius: 50%; /* Optional: Make it circular */
+    border: 3px solid white; /* Optional: Add a white border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
+}
+
+
 /* Image Style */
 .image-container img {
     max-width: 300px;
